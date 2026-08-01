@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Personal portfolio — static site
 
 Three files, no build step, no dependencies. Deploys to GitHub Pages as-is.
@@ -38,3 +39,7 @@ Tune the feel in `styles.css`:
 - `@keyframes rise-fall` — `translateY(60px)` is the rise, `translateY(110px) scale(.88)` is the drop.
 - `animation-range` on `.rv` / `.rvi` — when in the scroll each element starts and ends.
 - `--space-section` (120px) — the spacing between blocks; it is the only divider the design uses.
+=======
+# Personal Portfolio-
+I am making a Website to showcase my portfolio.
+>>>>>>> origin/main
