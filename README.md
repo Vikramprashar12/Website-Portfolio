@@ -1,2 +1,2 @@
-# React-Website-
-I am making a React Application to showcase my portfolio.
+# Personal Portfolio-
+I am making a Website to showcase my portfolio.
