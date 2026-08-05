@@ -232,6 +232,9 @@ main {
 .section {
 	padding-bottom: var(--space-section);
 }
+main > .section:last-child {
+	padding-bottom: var(--space-xl);
+}
 .section__head {
 	display: flex;
 	align-items: baseline;
