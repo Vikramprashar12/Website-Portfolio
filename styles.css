@@ -264,7 +264,7 @@ main > .section:last-child {
 /* ---------- hero ---------- */
 .hero {
 	display: flex;
-	align-items: flex-end;
+	align-items: center;
 	gap: var(--space-section);
 	padding: var(--space-xxl) 0 var(--space-section);
 }
